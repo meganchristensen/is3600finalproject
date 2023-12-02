@@ -1,5 +1,4 @@
 import aboutImage from '../assets/img/about.jpg'
-import Contact from '../components/Contact/Contact';
 import Skills from '../components/Skills/Skills';
 
 const AboutPage = () => {
@@ -108,8 +107,6 @@ const AboutPage = () => {
               </div>
             </div>
           </div>
-
-          
         </div>
       </section>
   );
