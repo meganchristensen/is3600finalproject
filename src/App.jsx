@@ -1,9 +1,10 @@
+import React from 'react'
+
 import "./App.css";
 import Layout from "./components/Layout/Layout";
 import AboutPage from "./pages/AboutPage";
 import ContactPage from "./pages/ContactPage";
 import HomePage from "./pages/HomePage";
-import resume from "./assets/resume1.pdf"
 
 function App() {
 

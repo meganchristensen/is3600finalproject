@@ -1,3 +1,5 @@
+import React from 'react'
+
 const HomePage = () => {
   return (
     <section id="hero" className="d-flex align-items-center">

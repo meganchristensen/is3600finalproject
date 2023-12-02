@@ -1,3 +1,5 @@
+import React from 'react'
+
 import aboutImage from '../assets/img/about.jpg'
 import Skills from '../components/Skills/Skills';
 

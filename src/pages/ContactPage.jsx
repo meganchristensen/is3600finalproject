@@ -1,5 +1,4 @@
-import aboutImage from "../assets/img/about.jpg";
-import Skills from "../components/Skills/Skills";
+import React from 'react'
 
 const ContactPage = () => {
   return (

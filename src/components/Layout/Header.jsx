@@ -1,3 +1,5 @@
+import React from 'react'
+
 import resume from "../../assets/resume1.pdf";
 
 const Header = () => {
